@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/add_product/add_product.iml" filepath="$PROJECT_DIR$/add_product/add_product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_product.iml" filepath="$PROJECT_DIR$/my_product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remove_product/remove_product.iml" filepath="$PROJECT_DIR$/remove_product/remove_product.iml" />
+    </modules>
+  </component>
+</project>
